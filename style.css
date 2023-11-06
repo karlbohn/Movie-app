@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+
+form {
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+thead{
+    background-color: slategray;
+    border-color: slategray;
+}
+
+th {
+   width: 33vw;
+   padding: 0px;
+}
+
+td {
+    text-align: center;
+}
+
+input {
+    height:35px;
+}
+
+#add-movie {
+    background-color: aqua;
+    border-radius: 6px;
+    height: 35px;
+    border: none;
+    font-weight: bolder;
+}
